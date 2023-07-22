@@ -73,7 +73,7 @@ nav ul a {
   color: #f9f5f6;
 }
 .card-body {
-  background-color: #690f69;
+  background-color: #000000;
   font-family: "Poppins", sans-serif;
 }
 .secondsection {
@@ -96,6 +96,13 @@ hr {
   height: 2px;
   margin: 56px 0;
   display: flex;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 .secondsection .vertical {
   height: 93px;
